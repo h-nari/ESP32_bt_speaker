@@ -7,3 +7,7 @@ bluetooth speaker using I2S + built in DAC
 ## 接続
 
 <img src="https://github.com/h-nari/ESP32_bt_speaker/blob/master/img/sc170503a1.png?raw=true" width="400"/>
+
+## デモ動画
+
+* <a href="https://youtu.be/7-ZSAkkyPiY">ESP32内蔵DA出力Bluetooth speaker</a>
