@@ -1,3 +1,7 @@
+sdkconfig
+sdkconfig.old
+build
+
 # Object files
 *.o
 *.ko
